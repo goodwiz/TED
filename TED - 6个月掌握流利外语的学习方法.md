@@ -1,7 +1,7 @@
 Author：WiZ
 Date：2018/06/11
 ```
-文章无法实现目录内部跳转，实在有点无奈
+依照视频文字整理而成
 ```
  
 >来自：[视频 | 6个月掌握流利外语的学习方法](http://open.sina.com.cn/course/id_1028/lesson_6796/).Chris Lonsdale 国际心理学家、语言学家、教育家
